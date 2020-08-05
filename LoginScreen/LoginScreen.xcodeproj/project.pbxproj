@@ -7,32 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A5D6DC6224DB0C0400443C66 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A5D6DC6124DB0C0400443C66 /* AppDelegate.m */; };
-		A5D6DC6524DB0C0400443C66 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A5D6DC6424DB0C0400443C66 /* SceneDelegate.m */; };
-		A5D6DC6824DB0C0400443C66 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A5D6DC6724DB0C0400443C66 /* ViewController.m */; };
-		A5D6DC6B24DB0C0400443C66 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A5D6DC6924DB0C0400443C66 /* Main.storyboard */; };
-		A5D6DC6D24DB0C0600443C66 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A5D6DC6C24DB0C0600443C66 /* Assets.xcassets */; };
-		A5D6DC7024DB0C0600443C66 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A5D6DC6E24DB0C0600443C66 /* LaunchScreen.storyboard */; };
-		A5D6DC7324DB0C0600443C66 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A5D6DC7224DB0C0600443C66 /* main.m */; };
+		A5E310AB24DB1D9C00011CAD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5E310AA24DB1D9C00011CAD /* AppDelegate.swift */; };
+		A5E310AD24DB1D9C00011CAD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5E310AC24DB1D9C00011CAD /* SceneDelegate.swift */; };
+		A5E310AF24DB1D9C00011CAD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5E310AE24DB1D9C00011CAD /* ViewController.swift */; };
+		A5E310B224DB1D9C00011CAD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A5E310B024DB1D9C00011CAD /* Main.storyboard */; };
+		A5E310B424DB1D9F00011CAD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A5E310B324DB1D9F00011CAD /* Assets.xcassets */; };
+		A5E310B724DB1D9F00011CAD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A5E310B524DB1D9F00011CAD /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		A5D6DC5D24DB0C0400443C66 /* AppCafe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppCafe.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		A5D6DC6024DB0C0400443C66 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		A5D6DC6124DB0C0400443C66 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		A5D6DC6324DB0C0400443C66 /* SceneDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SceneDelegate.h; sourceTree = "<group>"; };
-		A5D6DC6424DB0C0400443C66 /* SceneDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SceneDelegate.m; sourceTree = "<group>"; };
-		A5D6DC6624DB0C0400443C66 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		A5D6DC6724DB0C0400443C66 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		A5D6DC6A24DB0C0400443C66 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		A5D6DC6C24DB0C0600443C66 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		A5D6DC6F24DB0C0600443C66 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		A5D6DC7124DB0C0600443C66 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A5D6DC7224DB0C0600443C66 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		A5E310A724DB1D9C00011CAD /* LoginScreen.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LoginScreen.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A5E310AA24DB1D9C00011CAD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		A5E310AC24DB1D9C00011CAD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		A5E310AE24DB1D9C00011CAD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		A5E310B124DB1D9C00011CAD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		A5E310B324DB1D9F00011CAD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A5E310B624DB1D9F00011CAD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		A5E310B824DB1D9F00011CAD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		A5D6DC5A24DB0C0400443C66 /* Frameworks */ = {
+		A5E310A424DB1D9C00011CAD /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -42,75 +37,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		A5D6DC5424DB0C0400443C66 = {
+		A5E3109E24DB1D9C00011CAD = {
 			isa = PBXGroup;
 			children = (
-				A5D6DC5F24DB0C0400443C66 /* AppCafe */,
-				A5D6DC5E24DB0C0400443C66 /* Products */,
+				A5E310A924DB1D9C00011CAD /* LoginScreen */,
+				A5E310A824DB1D9C00011CAD /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		A5D6DC5E24DB0C0400443C66 /* Products */ = {
+		A5E310A824DB1D9C00011CAD /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A5D6DC5D24DB0C0400443C66 /* AppCafe.app */,
+				A5E310A724DB1D9C00011CAD /* LoginScreen.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A5D6DC5F24DB0C0400443C66 /* AppCafe */ = {
+		A5E310A924DB1D9C00011CAD /* LoginScreen */ = {
 			isa = PBXGroup;
 			children = (
-				A5D6DC6024DB0C0400443C66 /* AppDelegate.h */,
-				A5D6DC6124DB0C0400443C66 /* AppDelegate.m */,
-				A5D6DC6324DB0C0400443C66 /* SceneDelegate.h */,
-				A5D6DC6424DB0C0400443C66 /* SceneDelegate.m */,
-				A5D6DC6624DB0C0400443C66 /* ViewController.h */,
-				A5D6DC6724DB0C0400443C66 /* ViewController.m */,
-				A5D6DC6924DB0C0400443C66 /* Main.storyboard */,
-				A5D6DC6C24DB0C0600443C66 /* Assets.xcassets */,
-				A5D6DC6E24DB0C0600443C66 /* LaunchScreen.storyboard */,
-				A5D6DC7124DB0C0600443C66 /* Info.plist */,
-				A5D6DC7224DB0C0600443C66 /* main.m */,
+				A5E310AA24DB1D9C00011CAD /* AppDelegate.swift */,
+				A5E310AC24DB1D9C00011CAD /* SceneDelegate.swift */,
+				A5E310AE24DB1D9C00011CAD /* ViewController.swift */,
+				A5E310B024DB1D9C00011CAD /* Main.storyboard */,
+				A5E310B324DB1D9F00011CAD /* Assets.xcassets */,
+				A5E310B524DB1D9F00011CAD /* LaunchScreen.storyboard */,
+				A5E310B824DB1D9F00011CAD /* Info.plist */,
 			);
-			path = AppCafe;
+			path = LoginScreen;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A5D6DC5C24DB0C0400443C66 /* AppCafe */ = {
+		A5E310A624DB1D9C00011CAD /* LoginScreen */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A5D6DC7624DB0C0600443C66 /* Build configuration list for PBXNativeTarget "AppCafe" */;
+			buildConfigurationList = A5E310BB24DB1D9F00011CAD /* Build configuration list for PBXNativeTarget "LoginScreen" */;
 			buildPhases = (
-				A5D6DC5924DB0C0400443C66 /* Sources */,
-				A5D6DC5A24DB0C0400443C66 /* Frameworks */,
-				A5D6DC5B24DB0C0400443C66 /* Resources */,
+				A5E310A324DB1D9C00011CAD /* Sources */,
+				A5E310A424DB1D9C00011CAD /* Frameworks */,
+				A5E310A524DB1D9C00011CAD /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = AppCafe;
-			productName = AppCafe;
-			productReference = A5D6DC5D24DB0C0400443C66 /* AppCafe.app */;
+			name = LoginScreen;
+			productName = LoginScreen;
+			productReference = A5E310A724DB1D9C00011CAD /* LoginScreen.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		A5D6DC5524DB0C0400443C66 /* Project object */ = {
+		A5E3109F24DB1D9C00011CAD /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 1160;
 				LastUpgradeCheck = 1160;
 				ORGANIZATIONNAME = "Emiliano Perez";
 				TargetAttributes = {
-					A5D6DC5C24DB0C0400443C66 = {
+					A5E310A624DB1D9C00011CAD = {
 						CreatedOnToolsVersion = 11.6;
 					};
 				};
 			};
-			buildConfigurationList = A5D6DC5824DB0C0400443C66 /* Build configuration list for PBXProject "AppCafe" */;
+			buildConfigurationList = A5E310A224DB1D9C00011CAD /* Build configuration list for PBXProject "LoginScreen" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -118,56 +110,55 @@
 				en,
 				Base,
 			);
-			mainGroup = A5D6DC5424DB0C0400443C66;
-			productRefGroup = A5D6DC5E24DB0C0400443C66 /* Products */;
+			mainGroup = A5E3109E24DB1D9C00011CAD;
+			productRefGroup = A5E310A824DB1D9C00011CAD /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A5D6DC5C24DB0C0400443C66 /* AppCafe */,
+				A5E310A624DB1D9C00011CAD /* LoginScreen */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		A5D6DC5B24DB0C0400443C66 /* Resources */ = {
+		A5E310A524DB1D9C00011CAD /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A5D6DC7024DB0C0600443C66 /* LaunchScreen.storyboard in Resources */,
-				A5D6DC6D24DB0C0600443C66 /* Assets.xcassets in Resources */,
-				A5D6DC6B24DB0C0400443C66 /* Main.storyboard in Resources */,
+				A5E310B724DB1D9F00011CAD /* LaunchScreen.storyboard in Resources */,
+				A5E310B424DB1D9F00011CAD /* Assets.xcassets in Resources */,
+				A5E310B224DB1D9C00011CAD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		A5D6DC5924DB0C0400443C66 /* Sources */ = {
+		A5E310A324DB1D9C00011CAD /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A5D6DC6824DB0C0400443C66 /* ViewController.m in Sources */,
-				A5D6DC6224DB0C0400443C66 /* AppDelegate.m in Sources */,
-				A5D6DC7324DB0C0600443C66 /* main.m in Sources */,
-				A5D6DC6524DB0C0400443C66 /* SceneDelegate.m in Sources */,
+				A5E310AF24DB1D9C00011CAD /* ViewController.swift in Sources */,
+				A5E310AB24DB1D9C00011CAD /* AppDelegate.swift in Sources */,
+				A5E310AD24DB1D9C00011CAD /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		A5D6DC6924DB0C0400443C66 /* Main.storyboard */ = {
+		A5E310B024DB1D9C00011CAD /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				A5D6DC6A24DB0C0400443C66 /* Base */,
+				A5E310B124DB1D9C00011CAD /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		A5D6DC6E24DB0C0600443C66 /* LaunchScreen.storyboard */ = {
+		A5E310B524DB1D9F00011CAD /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				A5D6DC6F24DB0C0600443C66 /* Base */,
+				A5E310B624DB1D9F00011CAD /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -175,7 +166,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		A5D6DC7424DB0C0600443C66 /* Debug */ = {
+		A5E310B924DB1D9F00011CAD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -230,10 +221,12 @@
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
 		};
-		A5D6DC7524DB0C0600443C66 /* Release */ = {
+		A5E310BA24DB1D9F00011CAD /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -281,40 +274,44 @@
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
-		A5D6DC7724DB0C0600443C66 /* Debug */ = {
+		A5E310BC24DB1D9F00011CAD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4L5A286FGR;
-				INFOPLIST_FILE = AppCafe/Info.plist;
+				INFOPLIST_FILE = LoginScreen/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.emilianoperez.AppCafe;
+				PRODUCT_BUNDLE_IDENTIFIER = com.emilianoperez.LoginScreen;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		A5D6DC7824DB0C0600443C66 /* Release */ = {
+		A5E310BD24DB1D9F00011CAD /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4L5A286FGR;
-				INFOPLIST_FILE = AppCafe/Info.plist;
+				INFOPLIST_FILE = LoginScreen/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.emilianoperez.AppCafe;
+				PRODUCT_BUNDLE_IDENTIFIER = com.emilianoperez.LoginScreen;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
@@ -322,25 +319,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A5D6DC5824DB0C0400443C66 /* Build configuration list for PBXProject "AppCafe" */ = {
+		A5E310A224DB1D9C00011CAD /* Build configuration list for PBXProject "LoginScreen" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A5D6DC7424DB0C0600443C66 /* Debug */,
-				A5D6DC7524DB0C0600443C66 /* Release */,
+				A5E310B924DB1D9F00011CAD /* Debug */,
+				A5E310BA24DB1D9F00011CAD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A5D6DC7624DB0C0600443C66 /* Build configuration list for PBXNativeTarget "AppCafe" */ = {
+		A5E310BB24DB1D9F00011CAD /* Build configuration list for PBXNativeTarget "LoginScreen" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A5D6DC7724DB0C0600443C66 /* Debug */,
-				A5D6DC7824DB0C0600443C66 /* Release */,
+				A5E310BC24DB1D9F00011CAD /* Debug */,
+				A5E310BD24DB1D9F00011CAD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = A5D6DC5524DB0C0400443C66 /* Project object */;
+	rootObject = A5E3109F24DB1D9C00011CAD /* Project object */;
 }
