@@ -51,6 +51,9 @@
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="rr8-G1-rHz" userLabel="Deal Button">
                                         <rect key="frame" x="94.333333333333343" y="200" width="81.666666666666657" height="31"/>
                                         <state key="normal" image="dealbutton"/>
+                                        <connections>
+                                            <action selector="dealTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="eTj-3C-iz3"/>
+                                        </connections>
                                     </button>
                                 </subviews>
                                 <variation key="heightClass=compact-widthClass=compact" spacing="10"/>
@@ -109,6 +112,12 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
+                    <connections>
+                        <outlet property="LeftImageView" destination="E9M-T5-9xm" id="ll9-ec-HyZ"/>
+                        <outlet property="LeftScoreLabel" destination="sYM-z0-wew" id="1Nl-Jw-o1y"/>
+                        <outlet property="RightImageView" destination="abo-B8-iaY" id="AhM-TO-FMn"/>
+                        <outlet property="RightScoreLabel" destination="l9d-hw-vcr" id="LST-tD-lpa"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
